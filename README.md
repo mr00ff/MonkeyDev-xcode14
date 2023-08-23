@@ -22,8 +22,6 @@ xcodebuild -version
 ```shell
 File /Applications/Xcode.app/Contents/PlugIns/IDEiOSSupportCore.ideplugin/Contents/Resources/Embedded-Device.xcspec not found
 ```
-/Applications/Xcode.app/Contents/PlugIns/XCBSpecifications.ideplugin/Contents/Resources
-
 
 ```shell
 # xcode 14.2 路径正确 
